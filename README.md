@@ -21,7 +21,12 @@ WakeTunes is a simple Python script that allows you to wake up to a random song 
 - Python 3.x
 - Internet connection (required to play YouTube videos)
 
-## Author
+## Support
+​Please drop a star ⭐ if you like this project.
 
+## Contributing
+Please open an issue before making any major changes.
+  
+## Author
 Abhishek Bagde
 
